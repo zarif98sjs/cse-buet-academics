@@ -32,7 +32,7 @@
 <h1 align="center">Level 1 Term 1</h1>
 <hr/>
 
-## **`CSE 102`**
+## **`CSE 102` : Structured Programming Language**
 
 - [Programming Language Online, Offlines and Practice Problems](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%201%20Term%201/CSE%20102)
 - **`iGraphics`**
