@@ -1,27 +1,68 @@
-# cse-buet-academics
+# ***`cse-buet-academics`***
 
 A log of all the coding stuffs I have done as part of my `CSE BUET` undergard life.
 
+offline goes brrr
 
- offline goes brrr
+ # **`Table of Content`**
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarif98sjs&theme=default)
+- [**L3**/*T2*](#cse-314--operating-system-sessional)
+- [**L3**/*T1*](#cse-306--computer-architecture-sessional)
+- [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
+- [**L2**/*T1*](#cse-204--data-structures-and-algorithms-i-sessional)
+- [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
+- [**L1**/*T1*](#cse-102--structured-programming-language)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zarif98sjs&theme=monokai)
 
-[![zarif98sjs/xv6-memory-management-walkthrough - GitHub](https://gh-card.dev/repos/zarif98sjs/xv6-memory-management-walkthrough.svg)](https://github.com/zarif98sjs/xv6-memory-management-walkthrough)
+- **Term Projects**
+  - [*`Game of Pawns`*](https://github.com/zarif98sjs/Game-of-Pawns) *(1-1)*
+  - [*`Durbeen`*](https://github.com/zarif98sjs/Durbeen--The-Dawn-of-Programming-) *(1-2)*
+  - [*`innOcity`*](https://github.com/zarif98sjs/innOcity) *(2-2)*
+  - [*`Lookout32`*](https://youtu.be/Ti9rf612rtg) *(3-1)*
+  - [*`DealFinder`*]  *(3-2)*
+  - [*`SRED and ESRED in ns3`*]  *(3-2)*
+
+
+- **Extra Stuffs** 
+  - *Writeups*
+    - [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) *(2-2)*
+    - [*Yet Another C Compiler*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) *(3-1)*
+    - [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) *(3-2)*
+  - *Code*
+    - [*`Balanced Binary Search Trees`*](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees) *(2-2)*
+    - [*`ATmega32 GPS interfacing`*](https://github.com/zarif98sjs/ATmega32-GPS-interfacing) *(3-1)*
+    - [*`A Compiler Web App to demonstrate CI-CD pipeline using GitHub Actions`*](https://github.com/zarif98sjs/C-Compiler-Code-Generation-CI-CD) *(3-1)*
+  - *Notes*
+    - L3 T1 Notes
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarif98sjs&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zarif98sjs&theme=monokai) -->
+
+
 
 <!-- https://ghlinkcard.com/ -->
-<a href="https://github.com/zarif98sjs/xv6-memory-management-walkthrough"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/zarif98sjs/xv6-memory-management-walkthrough.png" width="460px"></a>
+<!-- <a href="https://github.com/zarif98sjs/xv6-memory-management-walkthrough"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/zarif98sjs/xv6-memory-management-walkthrough.png" width="460px"></a> -->
 
 
 <hr/>
 <h1 align="center"> <b> <code> L3/T2 </code> </b> </h1>
 <hr/>
 
+## **`CSE 314` : Operating System Sessional**
 
+- [**`Shell Script`**](https://github.com/zarif98sjs/CSE-314-Operating-System)
+- **`Inter Process Communication`**
+  - [pthread](https://github.com/zarif98sjs/CSE-314-Operating-System)
+- **`Xv6`**
+  - [Process Scheduling using Lottery Scheduling Algorithm](https://github.com/zarif98sjs/CSE-314-Operating-System)
+  - [Memory Management using Paging Framework](https://github.com/zarif98sjs/CSE-314-Operating-System)
   
-## **`CSE 318` : Artificial-Intelligence**
+### ***Some extra stuffs***
+
+[![zarif98sjs/xv6-memory-management-walkthrough - GitHub](https://gh-card.dev/repos/zarif98sjs/xv6-memory-management-walkthrough.svg?fullname=)](https://github.com/zarif98sjs/xv6-memory-management-walkthrough)
+
+## **`CSE 318` : Artificial-Intelligence Sessional**
+
 - [**`n Puzzle`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%201%20(n%20puzzle))
 - [**`Mancala`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%202%20(Mancala))
 - [**`Ghost Finder`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%203%20(Ghost%20Finder))
@@ -60,9 +101,18 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 - [Syntax & Semantic Analysis (YACC/BISON)](https://github.com/zarif98sjs/CSE-310-Compiler)
 - [Intermediate Code Generation](https://github.com/zarif98sjs/CSE-310-Compiler)
 
-***Some extra stuffs***
+### ***Some extra stuffs***
 
-[![zarif98sjs/Yet-Another-C-Compiler - GitHub](https://gh-card.dev/repos/zarif98sjs/Yet-Another-C-Compiler.svg?fullname=)](https://github.com/zarif98sjs/Yet-Another-C-Compiler)
+- `YACC`
+  
+  [![zarif98sjs/Yet-Another-C-Compiler - GitHub](https://gh-card.dev/repos/zarif98sjs/Yet-Another-C-Compiler.svg?fullname=)](https://github.com/zarif98sjs/Yet-Another-C-Compiler)
+
+- `CI CD Pipeline`
+
+  [![zarif98sjs/C-Compiler-Code-Generation-CI-CD - GitHub](https://gh-card.dev/repos/zarif98sjs/C-Compiler-Code-Generation-CI-CD.svg)](https://github.com/zarif98sjs/C-Compiler-Code-Generation-CI-CD)
+
+  - *Collaborator* : [Mustari Sadia](https://github.com/Mushtari-Sadia) - `1705037`
+
 
 ## **`CSE 316` : Microprocessors,Microcontrollers and Embedded Systems Sessional**
 - **`Assembly 8086`**
@@ -85,10 +135,11 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
     - [Sheikh Azizul Hakim](https://github.com/skhakim) - `1705002`
     - [Najibul Haque Sarker](https://github.com/Najib-Haq) - `1705044`
 
-***Some extra stuffs***
+### ***Some extra stuffs***
+
 - [CSE 316 Notes](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems/tree/main/Notes)
 
-- GPS Interfacing
+- `GPS Interfacing`
 
   [![zarif98sjs/ATmega32-GPS-interfacing - GitHub](https://gh-card.dev/repos/zarif98sjs/ATmega32-GPS-interfacing.svg?fullname=)](https://github.com/zarif98sjs/ATmega32-GPS-interfacing)
 
@@ -110,11 +161,15 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 
 
 
-***Some extra stuffs*** 
+### ***Some extra stuffs*** 
 
-[![zarif98sjs/RedBlackTree-An-Intuitive-Approach - GitHub](https://gh-card.dev/repos/zarif98sjs/RedBlackTree-An-Intuitive-Approach.svg?fullname=)](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach)
+- `RBT Writeup`
+  
+  [![zarif98sjs/RedBlackTree-An-Intuitive-Approach - GitHub](https://gh-card.dev/repos/zarif98sjs/RedBlackTree-An-Intuitive-Approach.svg?fullname=)](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach)
 
-[![zarif98sjs/Balanced-Binary-Search-Trees - GitHub](https://gh-card.dev/repos/zarif98sjs/Balanced-Binary-Search-Trees.svg?fullname=)](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees)
+- `BBST Experimentations`
+  
+  [![zarif98sjs/Balanced-Binary-Search-Trees - GitHub](https://gh-card.dev/repos/zarif98sjs/Balanced-Binary-Search-Trees.svg?fullname=)](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees)
 
 ## **`CSE 216` : Database Sessional**
 
