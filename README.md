@@ -38,6 +38,51 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
 
+## **`CSE 306` : Computer Architecture Sessional**
+
+- [Arithmetic Logic Unit (ALU)](https://github.com/zarif98sjs/CSE-306-Computer-Architecture)
+- [Floating Point Adder (FPA)](https://github.com/zarif98sjs/CSE-306-Computer-Architecture)
+- [8 Bit MIPS Processor](https://github.com/zarif98sjs/CSE-306-Computer-Architecture)
+- [ 8 Bit MIPS Processor Pipelining using Forwarding Unit](https://github.com/zarif98sjs/CSE-306-Computer-Architecture)
+
+## **`CSE 308` : Software Engineering Sessional**
+
+- [Java Refresher and OOP Design Principle](https://github.com/zarif98sjs/CSE-308-Software-Engineering)
+- [Creational Design Pattern](https://github.com/zarif98sjs/CSE-308-Software-Engineering)
+  - Abstract Factory
+  - Builder
+  - Singleton
+- [Structural Design Pattern](https://github.com/zarif98sjs/CSE-308-Software-Engineering)
+  - Adapter
+  - Decorator
+- [Behavioral Design Pattern](https://github.com/zarif98sjs/CSE-308-Software-Engineering)
+  - Observer
+  - Mediator
+
+## **`CSE 310` : Compiler Sessional**
+
+- [Symbol Table](https://github.com/zarif98sjs/CSE-310-Compiler)
+- [Lexical Analysis (FLEX)](https://github.com/zarif98sjs/CSE-310-Compiler)
+- [Syntax & Semantic Analysis (YACC/BISON)](https://github.com/zarif98sjs/CSE-310-Compiler)
+- [Intermediate Code Generation](https://github.com/zarif98sjs/CSE-310-Compiler)
+
+***Some extra stuffs***
+
+[![zarif98sjs/Yet-Another-C-Compiler - GitHub](https://gh-card.dev/repos/zarif98sjs/Yet-Another-C-Compiler.svg?fullname=)](https://github.com/zarif98sjs/Yet-Another-C-Compiler)
+
+## **`CSE 316` : Microprocessors,Microcontrollers and Embedded Systems Sessional**
+- **`Assembly 8086`**
+  - [Basic I/O and Registers](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+  - [If Else and Loops](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+  - [Arithmetic Logic instructions , Stack & Procedures](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+  - [Arrays and Recursion](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+
+- **`Atmega32 Microcontroller`**
+  - [LED matrix control and interrupt vector](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+  - [ADC & LCD Display](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
+
+***Some extra stuffs***
+- [CSE 316 Notes](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems/tree/main/Notes)
 
 
 <hr/>
@@ -56,7 +101,7 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 - [Hash Table](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%208%20(Hash%20Table))
 - [Branch and Bound](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%209%20(Branch%20%26%20Bound))
 
-Some extra stuffs 
+***Some extra stuffs*** 
 
 [![zarif98sjs/RedBlackTree-An-Intuitive-Approach - GitHub](https://gh-card.dev/repos/zarif98sjs/RedBlackTree-An-Intuitive-Approach.svg?fullname=)](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach)
 
