@@ -30,6 +30,7 @@ offline goes brrr
     - [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) *(3-2)*
   - *Code*
     - [*`Balanced Binary Search Trees`*](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees) *(2-2)*
+    - [*`Dockerizing Oracle`*](https://github.com/zarif98sjs/dockerize-oracle) *(2-2)*
     - [*`ATmega32 GPS interfacing`*](https://github.com/zarif98sjs/ATmega32-GPS-interfacing) *(3-1)*
     - [*`A Compiler Web App to demonstrate CI-CD pipeline using GitHub Actions`*](https://github.com/zarif98sjs/C-Compiler-Code-Generation-CI-CD) *(3-1)*
   - *Notes*
@@ -170,6 +171,10 @@ offline goes brrr
 - `BBST Experimentations`
   
   [![zarif98sjs/Balanced-Binary-Search-Trees - GitHub](https://gh-card.dev/repos/zarif98sjs/Balanced-Binary-Search-Trees.svg?fullname=)](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees)
+
+- `Dockerize Oracle`
+
+  [![zarif98sjs/dockerize-oracle - GitHub](https://gh-card.dev/repos/zarif98sjs/dockerize-oracle.svg?fullname=)](https://github.com/zarif98sjs/dockerize-oracle)
 
 ## **`CSE 216` : Database Sessional**
 
