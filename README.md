@@ -23,14 +23,8 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
   
 ## **`CSE 318` : Artificial-Intelligence**
 - [**`n Puzzle`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%201%20(n%20puzzle))
-  
-
 - [**`Mancala`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%202%20(Mancala))
-  
-  
 - [**`Ghost Finder`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%203%20(Ghost%20Finder))
-
-
 - [**`Futoshiki`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Online%20(Futoshiki))
 
 
@@ -81,9 +75,22 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
   - [LED matrix control and interrupt vector](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
   - [ADC & LCD Display](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems)
 
+- **`Term Project`** 
+
+  Youtube Demonstration
+
+  [![Lookout 32](https://img.youtube.com/vi/Ti9rf612rtg/0.jpg)](https://www.youtube.com/watch?v=Ti9rf612rtg)
+
+  - *Collaborators*
+    - [Sheikh Azizul Hakim](https://github.com/skhakim) - `1705002`
+    - [Najibul Haque Sarker](https://github.com/Najib-Haq) - `1705044`
+
 ***Some extra stuffs***
 - [CSE 316 Notes](https://github.com/zarif98sjs/CSE-316-Microprocessors-Microcontrollers-and-Embedded-Systems/tree/main/Notes)
 
+- GPS Interfacing
+
+  [![zarif98sjs/ATmega32-GPS-interfacing - GitHub](https://gh-card.dev/repos/zarif98sjs/ATmega32-GPS-interfacing.svg?fullname=)](https://github.com/zarif98sjs/ATmega32-GPS-interfacing)
 
 <hr/>
 <h1 align="center"> <b> <code> L2/T2 </code> </b> </h1>
@@ -100,6 +107,8 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 - [Binomial Heap](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%207%20(Binomial%20Heap))
 - [Hash Table](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%208%20(Hash%20Table))
 - [Branch and Bound](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%209%20(Branch%20%26%20Bound))
+
+
 
 ***Some extra stuffs*** 
 
