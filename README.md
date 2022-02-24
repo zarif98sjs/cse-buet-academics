@@ -44,6 +44,33 @@ A log of all the coding stuffs I have done as part of my `CSE BUET` undergard li
 <h1 align="center"> <b> <code> L2/T2 </code> </b> </h1>
 <hr/>
 
+## **`CSE 208` : Data Structures and Algorithms II Sessional**
+
+- [BFS & DFS](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%201%20(BFS-DFS))
+- [Dijkstra & Bellman Ford](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%202%20(Dijkstra-Bellman%20Ford))
+- [Floyd Warshall & Johnson](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%203%20(Floyd%20Warshall-Johnson))
+- [Minimum Spanning Tree](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%204%20(Minimum%20Spanning%20Tree))
+- [Max Flow & Bipartite Matching](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%205%20(Max%20Flow%20-%20Bipartite%20Graph))
+- [Red Black Tree](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%206%20(Red%20Black%20Tree))
+- [Binomial Heap](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%207%20(Binomial%20Heap))
+- [Hash Table](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%208%20(Hash%20Table))
+- [Branch and Bound](https://github.com/zarif98sjs/Offline-Memorial/tree/master/Level%202%20Term%202/CSE%20208/Offline%209%20(Branch%20%26%20Bound))
+
+Some extra stuffs 
+
+[![zarif98sjs/RedBlackTree-An-Intuitive-Approach - GitHub](https://gh-card.dev/repos/zarif98sjs/RedBlackTree-An-Intuitive-Approach.svg?fullname=)](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach)
+
+[![zarif98sjs/Balanced-Binary-Search-Trees - GitHub](https://gh-card.dev/repos/zarif98sjs/Balanced-Binary-Search-Trees.svg?fullname=)](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees)
+
+## **`CSE 216` : Database Sessional**
+
+- **`Term Project`**
+
+  [![zarif98sjs/innOcity - GitHub](https://gh-card.dev/repos/zarif98sjs/innOcity.svg)](https://github.com/zarif98sjs/innOcity)
+
+  - *Collaborator* : [Ramisa Alam](https://github.com/ramisa2108) - `1705004`
+  
+
 <hr/>
 <h1 align="center"> <b> <code> L2/T1 </code> </b> </h1>
 <hr/>
