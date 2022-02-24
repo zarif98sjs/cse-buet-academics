@@ -26,7 +26,7 @@ offline goes brrr
 - **Extra Stuffs** 
   - *Writeups*
     - [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) *(2-2)*
-    - [*Yet Another C Compiler*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) *(3-1)*
+    - [*`Yet Another C Compiler`*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) *(3-1)*
     - [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) *(3-2)*
   - *Code*
     - [*`Balanced Binary Search Trees`*](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees) *(2-2)*
