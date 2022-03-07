@@ -87,6 +87,17 @@ offline goes brrr
   - `SRED and ESRED (Active Queue Management) in ns3`
 
     [![zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3 - GitHub](https://gh-card.dev/repos/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3.svg)](https://github.com/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3)
+
+## **`CSE 326` : Information System Design Sessional**
+
+- [Scope Fixation](https://docs.google.com/presentation/d/1-ZpvDWQjdt0xkuF6_-tdQ28RF_W7xzpm?rtpof=true&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [BPMN](https://docs.google.com/presentation/d/1-ZuKnMdX-d4fvV8raZpb3S-rXUDndo5a?rtpof=true&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [Mock UI](https://docs.google.com/presentation/d/1-jlBRyUDp3hFC_L84Lf_udpK_P6cg7ca?rtpof=true&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [Class and ER Diagram](https://docs.google.com/presentation/d/1-cng8thtenZCDQH91XZAWlk4m00Jy6ht?rtpof=true&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [Collaboration Diagram](https://drive.google.com/open?id=1-gze7P-q9H_5COz2uLL2I64prfqY8yvy&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [Sequence Diagram](https://drive.google.com/open?id=1-niHiYAM400waOxWo7zE4DqhZUCD-h4t&authuser=1705010%40ugrad.cse.buet.ac.bd&usp=drive_fs)
+- [Demo of one module](https://github.com/zarif98sjs/DealFinder)
+
 <hr/>
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
