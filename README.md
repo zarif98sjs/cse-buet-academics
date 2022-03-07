@@ -2,6 +2,8 @@
 
 A log of all the coding stuffs I have done as part of my `CSE BUET` undergard life.
 
+![](images/banner.png)
+
 offline goes brrr
 
  # **`Table of Content`**
