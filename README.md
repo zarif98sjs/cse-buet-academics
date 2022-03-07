@@ -6,12 +6,13 @@ offline goes brrr
 
  # **`Table of Content`**
 
-- [**L3**/*T2*](#cse-314--operating-system-sessional)
-- [**L3**/*T1*](#cse-306--computer-architecture-sessional)
-- [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
-- [**L2**/*T1*](#cse-204--data-structures-and-algorithms-i-sessional)
-- [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
-- [**L1**/*T1*](#cse-102--structured-programming-language)
+- **Academic Terms**
+  - [**L3**/*T2*](#cse-314--operating-system-sessional)
+  - [**L3**/*T1*](#cse-306--computer-architecture-sessional)
+  - [**L2**/*T2*](#cse-208--data-structures-and-algorithms-ii-sessional)
+  - [**L2**/*T1*](#cse-204--data-structures-and-algorithms-i-sessional)
+  - [**L1**/*T2*](#cse-108--object-oriented-programming-language-sessional)
+  - [**L1**/*T1*](#cse-102--structured-programming-language)
 
 
 - **Term Projects**
@@ -19,15 +20,21 @@ offline goes brrr
   - [*`Durbeen`*](https://github.com/zarif98sjs/Durbeen--The-Dawn-of-Programming-) *(1-2)*
   - [*`innOcity`*](https://github.com/zarif98sjs/innOcity) *(2-2)*
   - [*`Lookout32`*](https://youtu.be/Ti9rf612rtg) *(3-1)*
-  - [*`DealFinder`*]  *(3-2)*
-  - [*`SRED and ESRED in ns3`*]  *(3-2)*
+  - [*`DealFinder`*]()  *(3-2)*
+  - [*`SRED and ESRED (Active Queue Management) in ns3`*](https://github.com/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3)  *(3-2)*
 
 
 - **Extra Stuffs** 
+  
   - *Writeups*
-    - [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) *(2-2)*
-    - [*`Yet Another C Compiler`*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) *(3-1)*
-    - [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) *(3-2)*
+    - [*`The Hitchhiker's Guide to Linear Algebra`*](https://zarif98sjs.github.io/mindcraft/LA/) *(2-2)* ⭐
+    - [*`Binary Lifting`*](https://zarif98sjs.github.io/mindcraft/BinaryLifting/) *(2-2)* 
+    - [*`Single Source Shortest Path : A Deep Dive`*](https://zarif98sjs.github.io/mindcraft/SingleSourceShortestPath/)  *(2-2)* 
+    - [*`Max Flow : A Deep Dive`*](https://zarif98sjs.github.io/mindcraft/MaxFlow/) *(2-2)*
+    - [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) *(2-2)* ⭐
+    - [*`Yet Another C Compiler`*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) *(3-1)* ⭐
+    - [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) *(3-2)* ⭐
+  
   - *Code*
     - [*`Balanced Binary Search Trees`*](https://github.com/zarif98sjs/Balanced-Binary-Search-Trees) *(2-2)*
     - [*`Dockerizing Oracle`*](https://github.com/zarif98sjs/dockerize-oracle) *(2-2)*
@@ -175,6 +182,14 @@ offline goes brrr
 - `Dockerize Oracle`
 
   [![zarif98sjs/dockerize-oracle - GitHub](https://gh-card.dev/repos/zarif98sjs/dockerize-oracle.svg?fullname=)](https://github.com/zarif98sjs/dockerize-oracle)
+
+- `The Hitchhiker's Guide to Linear Algebra`
+  
+  [![zarif98sjs/The-Hitchhiker-s-Guide-to-Linear-Algebra - GitHub](https://gh-card.dev/repos/zarif98sjs/The-Hitchhiker-s-Guide-to-Linear-Algebra.svg?fullname=)](https://github.com/zarif98sjs/The-Hitchhiker-s-Guide-to-Linear-Algebra)
+
+- [*`Binary Lifting`*](https://zarif98sjs.github.io/mindcraft/BinaryLifting/) 
+- [*`Single Source Shortest Path : A Deep Dive`*](https://zarif98sjs.github.io/mindcraft/SingleSourceShortestPath/) 
+- [*`Max Flow : A Deep Dive`*](https://zarif98sjs.github.io/mindcraft/MaxFlow/)
 
 ## **`CSE 216` : Database Sessional**
 
