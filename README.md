@@ -1,6 +1,6 @@
 # ***`cse-buet-academics`***
 
-A log of all the coding stuffs I have done as part of my `CSE BUET` undergard life.
+A log of all the coding stuffs I have done as part of my [***`CSE BUET`***](https://cse.buet.ac.bd/) undergard academic life.
 
 ![](images/banner.png)
 
@@ -42,8 +42,8 @@ offline goes brrr
     - [*`Dockerizing Oracle`*](https://github.com/zarif98sjs/dockerize-oracle) *(2-2)*
     - [*`ATmega32 GPS interfacing`*](https://github.com/zarif98sjs/ATmega32-GPS-interfacing) *(3-1)*
     - [*`A Compiler Web App to demonstrate CI-CD pipeline using GitHub Actions`*](https://github.com/zarif98sjs/C-Compiler-Code-Generation-CI-CD) *(3-1)*
-  - *Notes*
-    - L3 T1 Notes
+  <!-- - *Notes*
+    - L3 T1 Notes -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zarif98sjs&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zarif98sjs&theme=monokai) -->
@@ -82,10 +82,8 @@ offline goes brrr
 
 - [**`Socket Programming`**](https://github.com/zarif98sjs/CSE-322-Computer-Network)
 - [**`Packet Tracer`**](https://github.com/zarif98sjs/CSE-322-Computer-Network)
-- **`Term Project`** 
-  
+- **`Term Project`**   
   - [`Wireless Low-rate and High-rate simulation`](https://github.com/zarif98sjs/CSE-322-Computer-Network)
-
   - `SRED and ESRED (Active Queue Management) in ns3`
 
     [![zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3 - GitHub](https://gh-card.dev/repos/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3.svg)](https://github.com/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3)
