@@ -78,7 +78,17 @@ offline goes brrr
 - [**`Ghost Finder`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Offline%203%20(Ghost%20Finder))
 - [**`Futoshiki`**](https://github.com/zarif98sjs/CSE-318-Artificial-Intelligence/tree/main/Online%20(Futoshiki))
 
+## **`CSE 322` : Computer Networks Sessional**
 
+- [**`Socket Programming`**](https://github.com/zarif98sjs/CSE-322-Computer-Network)
+- [**`Packet Tracer`**](https://github.com/zarif98sjs/CSE-322-Computer-Network)
+- **`Term Project`** 
+  
+  - [`Wireless Low-rate and High-rate simulation`](https://github.com/zarif98sjs/CSE-322-Computer-Network)
+
+  - `SRED and ESRED (Active Queue Management) in ns3`
+
+    [![zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3 - GitHub](https://gh-card.dev/repos/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3.svg)](https://github.com/zarif98sjs/SRED-ESRED-ActiveQueueManagement-ns3)
 <hr/>
 <h1 align="center"> <b> <code> L3/T1 </code> </b> </h1>
 <hr/>
